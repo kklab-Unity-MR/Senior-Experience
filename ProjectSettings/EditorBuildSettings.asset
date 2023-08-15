@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/qube.unity
+    guid: 190e53026b8843c4dbf5e01f105d6fd8
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1e0c81cac3dbf504fb8d8537d543b0e3, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a99a13a8e872eb04b9dd3ed90a8aea89, type: 2}
